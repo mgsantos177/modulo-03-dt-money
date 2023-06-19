@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-06-14T20:00:00.000Z"
+    },
+    {
+      "category": "Cursos",
+      "description": "Curso Mairo Vergara",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2023-06-18T14:39:10.701Z",
+      "id": 2
+    },
+    {
+      "category": "Alimentacao",
+      "description": "Comida Papagaio",
+      "price": 80,
+      "type": "outcome",
+      "createdAt": "2023-06-18T14:50:40.706Z",
+      "id": 3
     }
   ]
 }
